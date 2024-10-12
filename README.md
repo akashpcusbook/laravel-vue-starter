@@ -8,6 +8,10 @@ This package is meant for a basic laravel 11 integration with vue js 3 with logi
 - node 20
 - npm 10
 
+## Dependency Used
+- Laravel 11 (sanctum, Breez, fortify). Please refer composer.json for more details.
+- Vue 3 (vue-router, axios, laravel-vite-plugin, @vitejs/plugin-vue).Please refer package.json for more details.
+
 ## Installation
 ```
 # Install all php dependencies. must have php 8.2 or greater.
@@ -40,10 +44,6 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 [Vue](https://vuejs.org/guide/introduction.html) (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps you efficiently develop user interfaces of any complexity.
-
-## Dependency Used
-- Laravel 11 (sanctum, Breez, fortify). Please refer composer.json for more details.
-- Vue 3 (vue-router, axios, laravel-vite-plugin, @vitejs/plugin-vue).Please refer package.json for more details.
 
 ## License
 
